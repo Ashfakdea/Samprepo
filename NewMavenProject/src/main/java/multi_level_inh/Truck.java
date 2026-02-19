@@ -10,6 +10,7 @@ public class Truck extends Vehicle {
 	}
 	public static void main(String[] args) {
 		Bike b=new Bike();
+		b.rides();
 		
 	}
 
